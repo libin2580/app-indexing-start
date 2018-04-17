@@ -28,7 +28,7 @@ import com.recipe_app.R;
  */
 public class HomeActivity extends Activity {
 
-    String newstring;
+    String newstringo;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
